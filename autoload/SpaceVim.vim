@@ -274,7 +274,7 @@ let g:spacevim_guifont                 = ''
 " >
 "   let g:spacevim_enable_ycm = 1
 " <
-let g:spacevim_enable_ycm              = 0
+let g:spacevim_enable_ycm              = 1
 
 ""
 " @section sidebar_width, options-sidebar_width
